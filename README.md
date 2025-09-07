@@ -1,5 +1,4 @@
-# ECEN-361-STM32-Lab-06-ADC-PWM-Solution
-
+# ECEN-361-STM32-Lab-06-ADC-PWM
 
 ## BYU-I  Department of Electrical and Computer Engineering
 <!-- div style="text-align: right">Initially Written:  Fall-2023   LRW</div> -->
